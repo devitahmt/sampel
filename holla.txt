@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dari local 
+=======
+aku sedang belajar git.
+apakah ini akan berhasil
+>>>>>>> b4fe88bf20007a622a8f569827b326cd737f72b6
